@@ -1,0 +1,11 @@
+OrderID,Customer,City,Product,Category,Quantity,Price
+1001,Amit,Ahmedabad,Laptop,Electronics,1,50000
+1002,Neha,Surat,Mobile,Electronics,2,20000
+1003,Rahul,Ahmedabad,Chair,Furniture,4,3000
+1004,Priya,Vadodara,Table,Furniture,2,8000
+1005,Jay,Rajkot,Printer,Electronics,1,15000
+1006,Riya,Ahmedabad,Mobile,Electronics,1,20000
+1007,Karan,Surat,Laptop,Electronics,1,50000
+1008,Sneha,Vadodara,Chair,Furniture,3,3000
+1009,Amit,Ahmedabad,Printer,Electronics,2,15000
+1010,Neha,Surat,Table,Furniture,1,8000
