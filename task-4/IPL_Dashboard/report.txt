@@ -1,0 +1,31 @@
+
+=========================================
+IPL ANALYTICS REPORT
+=========================================
+
+Total Players : 10
+
+Top Scorer : Virat Kohli
+Runs : 741
+
+Top Bowler : Mohammed Shami
+Wickets : 24
+
+Best Team : KKR
+Points : 18
+
+Highest Strike Rate :
+Andre Russell
+Strike Rate : 185.5
+
+All-Rounders :
+Andre Russell
+Sunil Narine
+
+
+Average Runs :
+391.1
+
+=========================================
+END OF REPORT
+=========================================
