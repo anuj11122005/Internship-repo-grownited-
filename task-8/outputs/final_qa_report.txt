@@ -1,0 +1,54 @@
+==================================================
+FINAL COMPREHENSIVE QA REPORT
+==================================================
+
+
+--- Phase 1: Database ---
+[PASS] All 7 tables exist in the database.
+[WARNING] Row count mismatches: ['reviews (CSV: 99224, DB: 98410)'] (Allowed if dupes were dropped during PK constraints)
+[PASS] Foreign key constraints are defined in the schema.
+[PASS] outputs/er_diagram.png exists.
+
+--- Phase 2: SQL Analytics ---
+[PASS] Found 36 queries in scripts/09_sql_analytics.sql
+[PASS] outputs/sql_analytics_results.txt is populated.
+
+--- Phase 3: Cleaning ---
+[PASS] Outlier flag columns exist in features table.
+[PASS] Outlier box plots exist in outputs/figures/
+
+--- Phase 4: Feature Engineering ---
+[PASS] All required engineered features exist.
+[PASS] Spot-check: approx_profit mathematically matches revenue - approx_cost exactly.
+
+--- Phase 5: Visualizations ---
+[PASS] Found 36 PNG files in outputs/figures/
+[PASS] No 0-byte or corrupted PNGs found.
+[PASS] Confirmed presence of heatmap, boxplot, scatter, and pair plot.
+
+--- Phase 6: Statistics ---
+[PASS] All statistical keywords found in summary.
+
+--- Phase 7 & 8: ML Model + Evaluation ---
+[PASS] Classification model targets 'high_value_customer'.
+[PASS] Model script imports/reports all 5 required metrics.
+
+--- Phase 9: Dashboard ---
+[PASS] All 4 required KPIs present in dashboard code.
+[PASS] Profit KPI is labeled with an approximation caveat.
+
+--- Business Insights ---
+[PASS] Found 15 business insight bullets.
+[PASS] All 15+ business insights are data-grounded with numbers.
+
+--- Field Mapping Consistency ---
+[PASS] Field mapping context (proxy/approximations or notes link) found in business report.
+
+==================================================
+FINAL QA SCORECARD
+==================================================
+Total Checks : 21
+Passes       : 20
+Warnings     : 1
+Failures     : 0
+==================================================

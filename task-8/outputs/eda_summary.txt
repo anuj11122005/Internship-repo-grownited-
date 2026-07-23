@@ -1,0 +1,44 @@
+=== E-Commerce EDA Summary ===
+Loading clean data...
+
+--- 1. Sales Trends ---
+Latest Month-over-Month Growth: -99.98%
+Total Revenue: R$13,591,643.70
+Total Orders: 98,666
+
+--- 2. Customer Purchasing Behavior ---
+Repeat Customer Rate: 3.05%
+Revenue from Repeat Customers: 5.62%
+Average Order Value (AOV): R$137.75
+
+Top 5 Cities by Revenue:
+- Sao Paulo: R$1,914,924.54
+- Rio De Janeiro: R$992,538.86
+- Belo Horizonte: R$355,611.13
+- Brasilia: R$301,920.25
+- Curitiba: R$211,738.06
+
+--- 3. Best-Selling Products ---
+Top Product by Revenue: bb50f2e236e5eea0100680137654686c (R$63,885.00)
+Top Product by Units: aca2eb7d00ea1a7b8ebd4e68314663af (527 units)
+
+Top 5 Categories by Revenue:
+- health_beauty: R$1,258,681.34 | Avg Price: R$130.16 | Avg Review: 4.14
+- watches_gifts: R$1,205,005.68 | Avg Price: R$201.14 | Avg Review: 4.02
+- bed_bath_table: R$1,036,988.68 | Avg Price: R$93.30 | Avg Review: 3.90
+- sports_leisure: R$988,048.97 | Avg Price: R$114.34 | Avg Review: 4.11
+- computers_accessories: R$911,954.32 | Avg Price: R$116.51 | Avg Review: 3.93
+
+Top 5 High-Return-on-Catalog Categories (>10 SKUs):
+- computers: R$7,432.10 per SKU
+- small_appliances_home_oven_and_coffee: R$1,530.51 per SKU
+- home_appliances_2: R$1,259.09 per SKU
+- agro_industry_and_commerce: R$980.14 per SKU
+- watches_gifts: R$906.70 per SKU
+
+=== Key Findings ===
+1. Strong seasonality and overall upward trend in monthly revenue, peaking late in the year.
+2. The vast majority of customers are one-time buyers, representing a huge opportunity for retention campaigns.
+3. High adoption of credit cards and installments; offering flexible payment plans is critical to AOV.
+4. A clear inverse relationship exists between delivery delay and review scores; late orders drive negative sentiment.
+5. Sales are highly concentrated in top categories (e.g., bed_bath_table, health_beauty), but some niche categories offer exceptional revenue per SKU.
