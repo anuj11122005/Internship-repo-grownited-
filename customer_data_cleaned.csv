@@ -1,0 +1,6 @@
+CustomerID,Name,Gender,Age,Income,PurchaseAmount,Income_Outlier,City_Ahmedabad,City_Rajkot,City_Surat,City_Vadodara,SpendingCategory
+101,Amit,1,25.0,-0.5656705394949939,-0.7387714441172131,False,True,False,False,False,Scaled
+102,Neha,0,30.0,-0.5357408813206556,-0.6837869662877093,False,False,False,True,False,Scaled
+103,Rahul,1,30.0,-0.34119810318745664,-0.4473537116208429,False,True,False,False,False,Scaled
+104,Priya,0,27.0,-0.5507057104078248,-0.07455895193680716,False,False,False,False,True,Scaled
+105,Jay,1,80.0,1.9933152344109308,1.9444710739625723,True,False,True,False,False,Scaled
